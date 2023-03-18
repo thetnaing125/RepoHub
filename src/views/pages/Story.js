@@ -19,13 +19,13 @@ const Story = props =>{
           origin: 'buttom',
           distance: '40px',
           duration: 1200,
-          interval: 200,
+          interval: 50,
           scale: 8.9,
           viewFactor: 0.1,
     });
 
     })
-    
+
     return(
       <div>
 
